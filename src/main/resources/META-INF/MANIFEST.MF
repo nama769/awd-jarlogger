@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Premain-Class: awd.agent.LogWaf
+Can-Redefine-Classes: true
+
+
